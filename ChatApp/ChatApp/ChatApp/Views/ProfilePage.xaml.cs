@@ -14,7 +14,7 @@ namespace ChatApp.Views
     {
         public ProfilePage()
         {
-            
+            InitializeComponent();
         }
     }
 }
