@@ -39,3 +39,25 @@ C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfo.cs
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
