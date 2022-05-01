@@ -18,11 +18,6 @@ C:\Users\User\Desktop\School Files\MobDev\ChatApp\ChatApp\ChatApp\obj\Debug\nets
 C:\Users\User\Desktop\School Files\MobDev\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
 C:\Users\User\Desktop\School Files\MobDev\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
 C:\Users\User\Desktop\School Files\MobDev\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
-C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
-C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
-C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
-C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
@@ -34,7 +29,13 @@ C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfo.cs
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
+C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
+C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
+C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChatApp.Views.SignupPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
+            <Frame BackgroundColor="White" HasShadow="False">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Entry Placeholder="Email"   
+                           PlaceholderColor="Black" HeightRequest="40"   
+                           Keyboard="Email"  
+                           TextColor="Black"/>
+                    <Entry Placeholder="Username"   
+                           PlaceholderColor="Black" HeightRequest="40"   
+                           TextColor="Black"/>
+                    <Entry Placeholder="Password"   
+                           PlaceholderColor="Black" HeightRequest="40"   
+                           IsPassword="True"  
+                           TextColor="Black"/>
+                    <Entry Placeholder="Confirm Password"   
+                           PlaceholderColor="Black" HeightRequest="40"   
+                           IsPassword="True"  
+                           TextColor="Black"/>
+                </StackLayout>
+            </Frame>
+            <Button Text="Sign Up" TextColor="White"  
+                    FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
+                    BackgroundColor="Green" />
+            <Button Text="Sign In To Your Account" TextColor="White"  
+                    FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
+                    BackgroundColor="Gray" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
