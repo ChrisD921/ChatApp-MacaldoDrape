@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
       "projectName": "ChatApp.iOS",
-      "projectPath": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
+            "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
             }
           }
         }

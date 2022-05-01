@@ -3336,11 +3336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
       "projectName": "ChatApp.Android",
-      "projectPath": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3361,8 +3361,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\School Files\\MobDev\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
+            "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\2021-2022 Projects\\Work\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
             }
           }
         }
