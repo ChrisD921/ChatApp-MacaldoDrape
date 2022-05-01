@@ -1526,16 +1526,7 @@ C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\1
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\bcab545f-39f3-4509-9aae-ce6fd96f1828.jar
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_AndroidXJetifyJavaLibraryRules.stamp
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\0204bde5-1cc0-40fd-bf5a-53bf25964b2e.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\2027d30d-e381-4ff9-8fc8-8fbe9b8f43c7.cfg
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\304616fc-cd09-4a69-b015-3f587f32cde7.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\6785a2a1-d76c-4c37-8b55-d22011388041.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\7a3c07dc-8420-45a3-8bd9-fe2cef9c0159.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\8bfe15d7-7010-4e2f-9d26-f51d49741ffe.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\b65ed210-bf85-4e8c-bc1d-4156daa144d9.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\cb5e375f-18bc-43d1-b92f-2b52fd496c35.txt
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_AndroidXCecilfy.stamp
@@ -2566,3 +2557,12 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\98b73f7d-e405-412f-8088-3b0f052f8992.jar
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\12b12154-780f-4d75-a68f-d9f539098dba.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\5ebc5d98-6414-4aa3-9169-227f5c8a7089.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\7d80bc48-28ec-4482-8a3e-de817c5c5c65.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\8d390880-b6fc-4ecc-ab21-ddf83f09ba73.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\90a901b2-7d3a-47b8-ae73-51254717b50a.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\94510136-eb92-4c50-94c1-2a4dd7cce4f3.cfg
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\947ad690-2b64-4b4e-a195-3ffad106e9fa.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\caec5755-cd86-4258-a12a-5225fe6f5b15.txt

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b22663ec-2778-4be1-bb2e-0a0b91cf5134": {
+      "ProjectGuid": "b22663ec-2778-4be1-bb2e-0a0b91cf5134",
+      "DisplayName": "ChatApp.Android",
+      "ColorIndex": 0
+    },
+    "27863fa5-32b0-4429-9e5e-6a5f7ff184f6": {
+      "ProjectGuid": "27863fa5-32b0-4429-9e5e-6a5f7ff184f6",
+      "DisplayName": "ChatApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
