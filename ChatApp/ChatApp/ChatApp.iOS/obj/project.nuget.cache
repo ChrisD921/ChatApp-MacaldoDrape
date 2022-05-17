@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "En+O032hnuDJF9exs2k7W9Hh495Wr88jwNnMgU/u5++0TwVH5DzexCEQzZJ1wUDJIy1Z73dujfFxgiv+cqllYQ==",
+  "dgSpecHash": "iN+IAxhiFjlwVQ5klwfabExxTYwQikeP08hMgO0TykuOpHvj7Hv1ge8P7OG3/TMWLNbifQg6jsF40gDplE7mrg==",
   "success": true,
   "projectFilePath": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
