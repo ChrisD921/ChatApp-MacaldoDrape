@@ -15,6 +15,13 @@
                             Source="https://images.pexels.com/photos/6165871/pexels-photo-6165871.jpeg">
                 </CI:CircleImage>
             </Frame>
+            <Label HorizontalOptions="Center" FontSize="30">Joshua Brent Macaldo</Label>
+            <Label HorizontalOptions="Center" FontSize="30">jbmacaldo@usc.edu.ph</Label>
+            <Button Text="Sign Out"
+                    CornerRadius="15"
+                    VerticalOptions="Center"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="DarkGray"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
