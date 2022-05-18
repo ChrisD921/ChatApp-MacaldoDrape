@@ -82,3 +82,4 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ChatPage.xaml.g.cs

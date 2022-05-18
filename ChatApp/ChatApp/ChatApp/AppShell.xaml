@@ -33,6 +33,7 @@
         <ShellContent Title="Login" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:LoginPage}" />
         <ShellContent Title="Signup" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:SignupPage}" />
         <ShellContent Title="Profile" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:ProfilePage}" />
+        <ShellContent Title="ChatPage" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:ChatPage}" />
         <!--
         <ShellContent Title="About" Icon="icon_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}" />
         <ShellContent Title="Browse" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:ItemsPage}" />

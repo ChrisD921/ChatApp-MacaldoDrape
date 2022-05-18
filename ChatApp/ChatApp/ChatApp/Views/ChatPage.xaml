@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChatApp.Views.ChatPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Frame BackgroundColor="White" HasShadow="False">
+                <StackLayout Orientation="Vertical" Spacing="20">
+                    <SearchBar Placeholder="Search user email..."
+                       HorizontalTextAlignment="Left"
+                       FontSize="Medium"
+                       FontAttributes="Italic" />
+                </StackLayout>
+            </Frame>
+            <Label Text="You have no contacts as of the moment."
+            Padding="100"
+            FontSize="Large"
+            HorizontalOptions="Center"
+            TextDecorations="None"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
