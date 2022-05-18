@@ -13,9 +13,9 @@
                 </StackLayout>
             </Frame>
             <Label Text="You have no contacts as of the moment."
-            Padding="100"
             FontSize="Large"
-            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand" 
+            HorizontalOptions="CenterAndExpand"
             TextDecorations="None"/>
         </StackLayout>
     </ContentPage.Content>
