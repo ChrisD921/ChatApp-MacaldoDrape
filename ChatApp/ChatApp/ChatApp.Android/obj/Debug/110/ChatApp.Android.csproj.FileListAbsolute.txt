@@ -2541,15 +2541,6 @@ C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\1
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\88\jl\files.cache
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\ImageCircle.Forms.Plugin.dll
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\1726ec20-b286-4ddb-8b10-22e484195fd0.jar
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\0a524f7a-259c-48a0-bf40-5150f880a715.cfg
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\37aa321f-7dc5-4da3-9910-4db174120af0.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\47fdd921-4593-4b5c-9e82-ab6bfc357401.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\a4600a76-c953-40f9-954f-04e26501b2c8.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\bdfa672e-00ca-4e0f-97b2-89bf70674014.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\bf817bc6-6659-4809-9db6-a76434c49258.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\f2f949f8-e6ed-4301-be48-95c3bf07f9dc.txt
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\feb07cb8-dbb8-44c2-a43a-7436cb8970de.txt
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\46\jl\files.cache
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\52\jl\files.cache
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\files.cache
@@ -2570,3 +2561,12 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\68b20cfb-2cc2-4aed-a51b-13ab53b17670.txt
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\9d6f221c-1ded-41c1-bf4a-088a678d07f4.txt
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\b9321590-f2f7-44b4-8125-fdbee63dd499.jar
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\2ed6a7d6-891d-4f32-b7f1-366d57580e19.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\6dde99d1-ba73-4d16-81ed-beb95ee5d875.cfg
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\83286361-90ed-45d2-90c4-d2146369eeb5.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\843e5153-a8c6-446d-b23d-42a70e7433ed.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\a662f78d-84f9-4bd4-b6b2-bd3931ed1b76.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\ac5a7b5f-3a8f-43e5-b00d-a096daaa9ee6.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\b298d84d-7e1d-4dc6-b20f-e3021b9469c0.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\bb64c134-b7e6-48a1-b333-198521efe526.txt

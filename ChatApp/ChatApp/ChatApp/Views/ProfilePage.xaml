@@ -10,9 +10,9 @@
                 <CI:CircleImage           
                             Aspect="AspectFill"             
                             BorderThickness="3"
-                            BorderColor="SkyBlue"
+                            BorderColor="RosyBrown"
                             BackgroundColor="RoyalBlue"
-                            Source="https://images.pexels.com/photos/6165871/pexels-photo-6165871.jpeg">
+                            Source="https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png">
                 </CI:CircleImage>
             </Frame>
             <Label HorizontalOptions="Center" FontSize="30">Joshua Brent Macaldo</Label>
