@@ -3,9 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
              mc:Ignorable="d"
              x:Class="ChatApp.Views.LoginPage"
              Shell.NavBarIsVisible="False">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="InvalidStyle" TargetType="Entry">
+                <Setter Property="TextColor" Value="Red"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
             <Image Source="Logo.png" HeightRequest="200" WidthRequest="200" ></Image>
@@ -13,6 +21,18 @@
             <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
             <Frame BackgroundColor="White" HasShadow="False">
                 <StackLayout Orientation="Vertical" Spacing="20">
+                    <Frame>
+                        <Entry Placeholder="Email">
+                            <Entry.Behaviors>
+                                <xct:EmailValidationBehavior InvalidStyle="{StaticResource InvalidStyle}" />
+                                
+                            </Entry.Behaviors>
+                        </Entry>
+                    </Frame>
+                    
+                    
+                    
+                    
                     <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            Keyboard="Email"  

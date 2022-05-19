@@ -41,7 +41,6 @@ C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\
 C:\Users\User\Desktop\2021-2022 Projects\Work\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
-C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
@@ -87,3 +86,4 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ChatPage.xaml.g.cs
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ConversationPage.xaml.g.cs
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\refint\ChatApp.dll

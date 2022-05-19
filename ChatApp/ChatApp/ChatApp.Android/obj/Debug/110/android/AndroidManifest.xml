@@ -10,6 +10,11 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <queries>
+    <intent>
+      <action android:name="android.media.browse.MediaBrowserService" />
+    </intent>
+  </queries>
   <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/ic_launcher" android:label="ChatApp.Android" android:theme="@style/MainTheme">
     <activity android:name="crc64ff2329586b0f4705.MainActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/ic_launcher" android:label="ChatApp" android:theme="@style/MainTheme" />
     <activity android:name="crc64ff2329586b0f4705.SplashActivity" android:exported="true" android:icon="@mipmap/ic_launcher" android:label="ChatApp" android:noHistory="true" android:theme="@style/splashscreen">
