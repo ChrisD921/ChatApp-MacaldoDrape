@@ -8,6 +8,7 @@
              Shell.NavBarIsVisible="False">
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
+            <Image Source="Logo.png" HeightRequest="200" WidthRequest="200" ></Image>
             <BoxView HeightRequest="10"/>
             <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
             <Frame BackgroundColor="White" HasShadow="False">

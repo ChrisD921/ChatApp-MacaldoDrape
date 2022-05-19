@@ -2570,3 +2570,4 @@ C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\1
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\a1f93349-ced1-485c-b135-a484e430c2f8.txt
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\dd14bdc1-ce08-4023-a07b-7b519b4b3f21.txt
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\eac7f5f4-130b-4eba-8414-ea6db5dd6520.txt
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\logo.png
