@@ -3,8 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit" 
+             xmlns:local="clr-namespace:ChatApp.Views"
              mc:Ignorable="d"
+              
              x:Class="ChatApp.Views.LoginPage"
              Shell.NavBarIsVisible="False">
     <ContentPage.Resources>
@@ -21,6 +23,11 @@
             <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
             <Frame BackgroundColor="White" HasShadow="False">
                 <StackLayout Orientation="Vertical" Spacing="20">
+
+
+                    
+                    
+                    
                     <Frame>
                         <Entry Placeholder="Email">
                             <Entry.Behaviors>
@@ -28,19 +35,16 @@
                                 
                             </Entry.Behaviors>
                         </Entry>
+                        
                     </Frame>
-                    
-                    
-                    
+
                     
                     <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            Keyboard="Email"  
                            TextColor="Black"/>
-                    <Entry x:Name="Password" Text="{Binding Password}" Placeholder="Password"   
-                           PlaceholderColor="Black" HeightRequest="40"   
-                           IsPassword="True"  
-                           TextColor="Black"/>
+                    
+                    <local:SecurityEntry x:Name="Password" WidthRequest="100" HeightRequest="40"/>
                 </StackLayout>
             </Frame>
             <Label Text="Forgot Password"

@@ -138,3 +138,4 @@ C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.iOS\obj\iPhone\Debu
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.iOS\obj\iPhone\Debug\ChatApp.iOS.exe
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.iOS\obj\iPhone\Debug\ChatApp.iOS.pdb
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.iOS\bin\iPhone\Debug\ImageCircle.Forms.Plugin.dll
+C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
