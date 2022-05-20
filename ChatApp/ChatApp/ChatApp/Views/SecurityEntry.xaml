@@ -23,7 +23,7 @@
                    RelativeLayout.HeightConstraint="{ConstraintExpression Type=Constant, Constant= 50}" />
 
             <ImageButton BackgroundColor="Transparent"
-                   Source="openedEye.png" Clicked="ImageButton_Clicked"     
+                   Source="closedEye.png" Clicked="ImageButton_Clicked"     
                    RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-50}"
                    RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Y, Constant = 0}"
                    RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.10}"
