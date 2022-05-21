@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 <Devices><Device id="192.168.222.102:5555"><ResultingAbi>x86</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:vbox86p;model:Google_Pixel_3a;device:vbox86p;transport_id:2</LongOutput></Device><Device id="192.168.131.103:5555"><ResultingAbi>x86</ResultingAbi><SdkVersion>28</SdkVersion></Device></Devices>
-=======
-<Devices><Device id="192.168.222.102:5555"><ResultingAbi>x86</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:vbox86p;model:Google_Pixel_3a;device:vbox86p;transport_id:2</LongOutput></Device><Device id="192.168.222.102:5555"><ResultingAbi>x86</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:vbox86p;model:Google_Pixel_3a;device:vbox86p;transport_id:1</LongOutput></Device><Device id="192.168.222.102:5555"><ResultingAbi>x86</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:vbox86p;model:Google_Pixel_3a;device:vbox86p;transport_id:1</LongOutput></Device></Devices>
->>>>>>> Stashed changes
