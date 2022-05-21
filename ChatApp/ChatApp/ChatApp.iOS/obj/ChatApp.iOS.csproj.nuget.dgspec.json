@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {}
+    "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {
+    "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
         "projectName": "ChatApp.iOS",
-        "projectPath": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+        "projectPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
-                "projectPath": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
+              "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+                "projectPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+    "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
         "projectName": "ChatApp",
-        "projectPath": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "projectPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
