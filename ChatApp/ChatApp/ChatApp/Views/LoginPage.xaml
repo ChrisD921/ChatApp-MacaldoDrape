@@ -75,9 +75,13 @@
             </StackLayout>
 
 
-            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
-                <Button ImageSource="googleLogo.png" Text="Google" BackgroundColor="White" TextColor="Black" BorderColor="Black" BorderWidth="1" CornerRadius="25" WidthRequest="150" HorizontalOptions="Start"/>
-                <Button ImageSource="facebookLogo.png" Text="Facebook" TextColor="Black" BorderColor="Black" BorderWidth="1" CornerRadius="25" WidthRequest="150"/>
+            <StackLayout Orientation="Horizontal"  >
+                <Button ImageSource="googleLogo.png" Text="Sign In with Google" 
+                        BackgroundColor="White" TextColor="Black" FontSize="Micro" 
+                        BorderColor="Black" BorderWidth="1" CornerRadius="20" WidthRequest="175"  />
+                <Button ImageSource="facebookLogo.png" Text="Sign in with Facebook"
+                        TextColor="Black" FontSize="Micro"
+                        BorderColor="Black" BorderWidth="1" CornerRadius="20" WidthRequest="175"/>
             </StackLayout>
 
 
