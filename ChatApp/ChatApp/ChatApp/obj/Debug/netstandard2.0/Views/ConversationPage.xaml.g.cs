@@ -17,16 +17,12 @@ namespace ChatApp.Views {
     public partial class ConversationPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::ChatApp.Controls.ExtendedListView ChatList;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::ChatApp.Views.Partials.ChatInputBarView chatInput;
+        private global::Xamarin.Forms.Entry chatTextInput;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ConversationPage));
-            ChatList = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ChatApp.Controls.ExtendedListView>(this, "ChatList");
-            chatInput = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ChatApp.Views.Partials.ChatInputBarView>(this, "chatInput");
+            chatTextInput = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "chatTextInput");
         }
     }
 }

@@ -28,6 +28,5 @@ namespace ChatApp
         protected override void OnResume()
         {
         }
-        public static string User = "Josh";
     }
 }

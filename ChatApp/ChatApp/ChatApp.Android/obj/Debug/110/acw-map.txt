@@ -4,9 +4,6 @@ chatapp.droid.MainActivity;crc64ff2329586b0f4705.MainActivity
 ChatApp.Droid.SplashActivity, ChatApp.Android;crc64ff2329586b0f4705.SplashActivity
 ChatApp.Droid.SplashActivity;crc64ff2329586b0f4705.SplashActivity
 chatapp.droid.SplashActivity;crc64ff2329586b0f4705.SplashActivity
-ChatApp.Droid.Renderers.CustomEditorRenderer, ChatApp.Android;crc64387c8019909e25d7.CustomEditorRenderer
-ChatApp.Droid.Renderers.CustomEditorRenderer;crc64387c8019909e25d7.CustomEditorRenderer
-chatapp.droid.renderers.CustomEditorRenderer;crc64387c8019909e25d7.CustomEditorRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer, ImageCircle.Forms.Plugin;crc6436929b8ad3b40f6f.ImageCircleRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer;crc6436929b8ad3b40f6f.ImageCircleRenderer
 imagecircle.forms.plugin.droid.ImageCircleRenderer;crc6436929b8ad3b40f6f.ImageCircleRenderer
