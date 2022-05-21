@@ -22,7 +22,7 @@
             <BoxView HeightRequest="10"/>
             <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
             <Frame BackgroundColor="White" HasShadow="False">
-                <StackLayout Orientation="Vertical" Spacing="20">
+                <StackLayout Orientation="Vertical" Spacing="10">
 
                     <!-- 
                     

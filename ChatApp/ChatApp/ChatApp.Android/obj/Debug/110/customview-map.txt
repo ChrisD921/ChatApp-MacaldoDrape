@@ -26,9 +26,6 @@ com.google.android.material.bottomnavigation.BottomNavigationView;C:\Users\Chris
 com.google.android.material.tabs.TabLayout;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\res\layout\fallbacktabbardonotuse.xml
 com.google.android.material.tabs.TabLayout;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\res\layout\tabbar.xml
-crc642e1c7a98bdb5c44a.AutoFitTextureView;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\54\jl\res\layout\camerafragment.xml
-crc643f46942d9dd1fff9.ShellFlyoutLayout;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\res\layout\flyoutcontent.xml
-crc64720bb2db43a66fe9.FormsViewPager;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\res\layout\rootlayout.xml
 declare-styleable;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\56\jl\res\values\attrs.xml
 external-cache-path;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\55\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\lp\55\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml

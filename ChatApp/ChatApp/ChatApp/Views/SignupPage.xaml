@@ -1,16 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ChatApp.Views.SignupPage">
-    
+             x:Class="ChatApp.Views.SignupPage"
+             xmlns:local="clr-namespace:ChatApp.Views"
+             xmlns:local2="clr-namespace:ChatApp.Views"
+             
+             Shell.NavBarIsVisible="False">
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
 
             <Image Source="Logo.png" HeightRequest="100" WidthRequest="200"/>
-            <BoxView HeightRequest="10"/>
+            <BoxView HeightRequest="1"/>
             <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
             <Frame BackgroundColor="White" HasShadow="False">
-                <StackLayout Orientation="Vertical" Spacing="10">
+                <StackLayout Orientation="Vertical" Spacing="2">
                     <Entry Placeholder="Email"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            Keyboard="Email"  
@@ -18,22 +21,57 @@
                     <Entry Placeholder="Username"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            TextColor="Black"/>
-                    <Entry Placeholder="Password"   
+                    <!--<Entry Placeholder="Password"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            IsPassword="True"  
-                           TextColor="Black"/>
-                    <Entry Placeholder="Confirm Password"   
+                           TextColor="Black"/>-->
+                    
+                        <local:SecurityEntry x:Name="Password" />
+                    
+                    <!--<Entry Placeholder="Confirm Password"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            IsPassword="True"  
-                           TextColor="Black"/>
+                           TextColor="Black"/>-->
+
+                    <local2:confirmPassword x:Name="confirmPassword"  />
+                    
+                    
                 </StackLayout>
+                
             </Frame>
+            
             <Button Text="Sign Up" TextColor="White"  
-                    FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
+                    FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand" VerticalOptions="Center" 
                     BackgroundColor="Green" />
             <Button Text="Sign In To Your Account" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
                     BackgroundColor="Gray" />
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center"  VerticalOptions="Center">
+                <StackLayout>
+                    <BoxView WidthRequest="150" Color="Black" HeightRequest="1"/>
+                </StackLayout>
+                <Label Text="or" WidthRequest="20" FontSize="15" />
+                <StackLayout>
+                    <BoxView WidthRequest="150"  Color="Black" HeightRequest="1"/>
+                </StackLayout>
+            </StackLayout>
+
+
+
+
+            <StackLayout Orientation="Horizontal"  >
+                <Button ImageSource="googleLogo.png" Text="Sign Up with Google" 
+                        BackgroundColor="White" TextColor="Black" FontSize="Micro" 
+                        BorderColor="Black" BorderWidth="1" CornerRadius="20" WidthRequest="175"  />
+                <Button ImageSource="facebookLogo.png" Text="Sign Up with Facebook"
+                        TextColor="Black" FontSize="Micro"
+                        BorderColor="Black" BorderWidth="1" CornerRadius="20" WidthRequest="175"/>
+            </StackLayout>
+
+
+
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -16,6 +16,9 @@
     <Compile Update="Views\SecurityEntry.xaml.cs">
       <DependentUpon>SecurityEntry.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\confirmPassword.xaml.cs">
+      <DependentUpon>confirmPassword.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
@@ -38,6 +41,9 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\SecurityEntry.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\confirmPassword.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

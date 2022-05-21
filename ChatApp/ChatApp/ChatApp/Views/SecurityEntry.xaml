@@ -2,9 +2,9 @@
 <ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChatApp.Views.SecurityEntry">
-    <ContentView.Content>
-        <RelativeLayout Margin="5">
-              <!--
+  <ContentView.Content>
+        <RelativeLayout Margin="1">
+            <!--
             <Frame 
                 BorderColor="Black"
                 RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1.0}"
@@ -21,7 +21,7 @@
                    RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=X, Constant=0}"
                    RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Y, Constant=0}"
                    RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.9}"
-                   RelativeLayout.HeightConstraint="{ConstraintExpression Type=Constant, Constant= 40}" />
+                   RelativeLayout.HeightConstraint="{ConstraintExpression Type=Constant, Constant= 50}" />
 
             <ImageButton BackgroundColor="Transparent"
                    Source="closedEye.png" Clicked="ImageButton_Clicked"     

@@ -17,8 +17,16 @@ namespace ChatApp.Views {
     public partial class SignupPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::ChatApp.Views.SecurityEntry Password;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::ChatApp.Views.confirmPassword confirmPassword;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SignupPage));
+            Password = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ChatApp.Views.SecurityEntry>(this, "Password");
+            confirmPassword = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ChatApp.Views.confirmPassword>(this, "confirmPassword");
         }
     }
 }

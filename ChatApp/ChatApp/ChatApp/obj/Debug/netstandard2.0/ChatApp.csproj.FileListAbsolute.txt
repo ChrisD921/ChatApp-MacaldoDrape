@@ -120,3 +120,4 @@ C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatAp
 C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\refint\ChatApp.dll
 C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
 C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\confirmPassword.xaml.g.cs
