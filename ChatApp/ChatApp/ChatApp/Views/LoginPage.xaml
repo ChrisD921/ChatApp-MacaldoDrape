@@ -26,7 +26,7 @@
 
 
                     
-                    
+                   <!-- 
                     
                     <Frame>
                         <Entry Placeholder="Email">
@@ -37,14 +37,18 @@
                         </Entry>
                         
                     </Frame>
-
-                    
-                    <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
+                    -->
+                    <Frame WidthRequest="100" HeightRequest="40" BorderColor="Black" >
+                        <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            Keyboard="Email"  
                            TextColor="Black"/>
+                    </Frame>
+                    <Frame WidthRequest="100" HeightRequest="40" BorderColor="Black">
+                        <local:SecurityEntry x:Name="Password" />
+                    </Frame>
                     
-                    <local:SecurityEntry x:Name="Password" WidthRequest="100" HeightRequest="40"/>
+                    
                 </StackLayout>
             </Frame>
             <Label Text="Forgot Password"
