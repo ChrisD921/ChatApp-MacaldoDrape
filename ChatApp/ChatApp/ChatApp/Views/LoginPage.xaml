@@ -18,7 +18,7 @@
     </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
-            <Image Source="Logo.png" HeightRequest="150" WidthRequest="200" ></Image>
+            <Image Source="Logo.png" HeightRequest="100" WidthRequest="200" ></Image>
             <BoxView HeightRequest="10"/>
             <Image HorizontalOptions="Center" WidthRequest="300" Source="maco.jpg"/>
             <Frame BackgroundColor="White" HasShadow="False">
@@ -38,23 +38,25 @@
                     -->
                     <Frame WidthRequest="100" HeightRequest="50" BorderColor="Black" >
                         <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
-                           PlaceholderColor="Black" HeightRequest="0"   
+                           PlaceholderColor="Black"    
                            Keyboard="Email"  
                            TextColor="Black"/>
                     </Frame>
-                    <Frame WidthRequest="100" HeightRequest="50" BorderColor="Black">
-                        <local:SecurityEntry x:Name="Password" />
+                    <Frame WidthRequest="100" BorderColor="Black" HeightRequest="40">
+                        <local:SecurityEntry x:Name="Password" VerticalOptions="End" />
                     </Frame>
-                </StackLayout>
-            </Frame>
-            <Label Text="Forgot Password"
-               TextColor="Gray"
-               HorizontalOptions="End">
-                <Label.GestureRecognizers>
-                    <TapGestureRecognizer Command="{Binding TapCommand}"
+                    <Label Text="Forgot Password"
+                        TextColor="Gray"
+                        HorizontalOptions="End">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding TapCommand}"
                                       CommandParameter="https://docs.microsoft.com/xamarin/" />
-                </Label.GestureRecognizers>
-            </Label>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+                
+            </Frame>
+            
             <Button Command="{Binding SubmitCommand}" Text="SIGN IN" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
                     BackgroundColor="Green" />
