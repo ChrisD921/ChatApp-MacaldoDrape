@@ -88,3 +88,7 @@ C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstanda
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\refint\ChatApp.dll
 C:\xampp\htdocs\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\SecurityEntry.xaml.g.cs
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\SecurityEntry.xaml.g.cs
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\Cells\IncomingViewCell.xaml.g.cs
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\Cells\OutgoingViewCell.xaml.g.cs
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\Partials\ChatInputBarView.xaml.g.cs
