@@ -5,11 +5,11 @@
     <ContentView.Content>
         <RelativeLayout Margin="5">
 
-            <!--<Frame 
+            <Frame 
                 BorderColor="Black"
                 RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1.0}"
                 RelativeLayout.HeightConstraint="{ConstraintExpression Type=Constant, Constant= 50}"
-             /> -->
+             />
             <Entry x:Name="MyEntry"
                     Text="{Binding Password}" 
                    Placeholder="Password"

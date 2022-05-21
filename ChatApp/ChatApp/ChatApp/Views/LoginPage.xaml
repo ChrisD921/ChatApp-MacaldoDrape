@@ -28,7 +28,7 @@
                     
                     
                     
-                    <!--<Frame>
+                    <Frame>
                         <Entry Placeholder="Email">
                             <Entry.Behaviors>
                                 <xct:EmailValidationBehavior InvalidStyle="{StaticResource InvalidStyle}" />
@@ -36,19 +36,15 @@
                             </Entry.Behaviors>
                         </Entry>
                         
-                    </Frame> -->
+                    </Frame>
 
-                    <Frame BorderColor="Black" HeightRequest="40"  CornerRadius="20" >
-                        <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
+                    
+                    <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            Keyboard="Email"  
                            TextColor="Black"/>
-                    </Frame>
-
-                    <Frame BorderColor="Black" HeightRequest="40"  CornerRadius="20" >
-                        <local:SecurityEntry x:Name="Password" WidthRequest="100" HeightRequest="40"/>
-                    </Frame>
                     
+                    <local:SecurityEntry x:Name="Password" WidthRequest="100" HeightRequest="40"/>
                 </StackLayout>
             </Frame>
             <Label Text="Forgot Password"
