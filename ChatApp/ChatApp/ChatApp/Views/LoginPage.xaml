@@ -6,9 +6,8 @@
              xmlns:xct="http://xamarin.com/schemas/2020/toolkit" 
              xmlns:local="clr-namespace:ChatApp.Views"
              mc:Ignorable="d"
-              
              x:Class="ChatApp.Views.LoginPage"
-             Shell.NavBarIsVisible="False">
+             Shell.TabBarIsVisible="False">
     <ContentPage.Resources>
         <ResourceDictionary>
             <Style x:Key="InvalidStyle" TargetType="Entry">
@@ -60,7 +59,7 @@
             <Button Command="{Binding SubmitCommand}" Text="SIGN IN" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
                     BackgroundColor="Green" />
-            <Button Text="CREATE AN ACCOUNT" TextColor="White"  
+            <Button Clicked="SignUp_Clicked" Text="CREATE AN ACCOUNT" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
                     BackgroundColor="Gray" />
 

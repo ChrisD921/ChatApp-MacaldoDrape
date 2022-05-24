@@ -16,5 +16,9 @@ namespace ChatApp.Views
         {
             InitializeComponent();
         }
+        private void SignIn_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new LoginPage());
+        }
     }
 }

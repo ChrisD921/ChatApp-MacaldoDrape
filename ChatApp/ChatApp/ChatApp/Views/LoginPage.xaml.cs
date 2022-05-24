@@ -1,6 +1,7 @@
 ﻿using ChatApp.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,6 +29,11 @@ namespace ChatApp.Views
             {
                 vm.SubmitCommand.Execute(null);
             };
+
+        }
+        private void SignUp_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new SignupPage());
         }
     }
 }

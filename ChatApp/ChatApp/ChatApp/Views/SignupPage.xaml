@@ -4,8 +4,7 @@
              x:Class="ChatApp.Views.SignupPage"
              xmlns:local="clr-namespace:ChatApp.Views"
              xmlns:local2="clr-namespace:ChatApp.Views"
-             
-             Shell.NavBarIsVisible="False">
+             Shell.TabBarIsVisible="False">
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
 
@@ -43,7 +42,7 @@
             <Button Text="Sign Up" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand" VerticalOptions="Center" 
                     BackgroundColor="Green" />
-            <Button Text="Sign In To Your Account" TextColor="White"  
+            <Button Clicked="SignIn_Clicked" Text="Sign In To Your Account" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand"  
                     BackgroundColor="Gray" />
 

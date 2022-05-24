@@ -37,12 +37,18 @@ namespace ChatApp.ViewModels
         {
             SubmitCommand = new Command(OnSubmit);
         }
-        public void OnSubmit()
+        public async void OnSubmit()
         {
+            await Shell.Current.GoToAsync($"//{nameof(ProfilePage)}");
+            /*
             if (email == "" || password != "")
             {
                 DisplayInvalidLoginPrompt();
             }
+            else if (email == "test@gmail.com" && password == "12345")
+            {
+                await Application.Current.MainPage.Navigation.PushModalAsync(new AppShell());
+            }*/
         }
     }
 }
