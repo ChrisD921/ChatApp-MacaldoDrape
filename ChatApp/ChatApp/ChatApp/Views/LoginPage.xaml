@@ -48,7 +48,7 @@
                         TextColor="Gray"
                         HorizontalOptions="End">
                         <Label.GestureRecognizers>
-                            <TapGestureRecognizer Command="{Binding TapCommand}"
+                            <TapGestureRecognizer Tapped="ForgotPassword_Clicked" Command="{Binding TapCommand}"
                                       CommandParameter="https://docs.microsoft.com/xamarin/" />
                         </Label.GestureRecognizers>
                     </Label>

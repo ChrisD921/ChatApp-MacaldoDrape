@@ -35,5 +35,9 @@ namespace ChatApp.Views
         {
             Navigation.PushModalAsync(new SignupPage());
         }
+        private void ForgotPassword_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new ForgotPassword());
+        }
     }
 }
