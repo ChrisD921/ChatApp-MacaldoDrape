@@ -157,4 +157,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\openedEye.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Backbutton.png" />
+  </ItemGroup>
 </Project>
