@@ -16,5 +16,11 @@ namespace ChatApp.Views
         {
             InitializeComponent();
         }
+
+        private void FPBack_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new LoginPage());
+        }
     }
+    
 }
