@@ -2724,9 +2724,29 @@ C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatAp
 C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\facebooklogo.png
 C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\googlelogo.png
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\ed45800f-473c-4035-bdde-fb1954b32425.jar
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\2c8b9ace-96c7-4e1b-b045-5125dce97b31.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\4b675ece-13b0-4d0f-9a1f-915ffcc11eca.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\5d1c7b65-8215-42fa-9ae2-aa1750cf4fbb.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\694da934-20d2-4173-b5d5-c9c4c679470f.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\75a13aba-b88f-459d-9cb1-be92a3f1aa94.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\8c00f105-f978-441a-8ed0-28b64a7e43e5.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\d17a76d8-07d1-42e1-9b21-c33ea49299a6.txt
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\f31c2e09-2b4c-4b9d-beb0-b5af4e855219.cfg
+C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\backbutton.png
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.Android.dll
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.Android.pdb
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp.apk
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp.aab
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp-Signed.aab
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp-Signed.apk
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp-Signed.apk.idsig
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.dll
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.pdb
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\build.props
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\adb.props
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\ChatApp.Android.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\_VerifyXamarinAndroidSupportVersions.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res.flag
@@ -2761,16 +2781,6 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\R.txt
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\R.cs.flag
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\ChatApp.Android.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.Android.dll
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.Android.pdb
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp.apk
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp.aab
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp-Signed.aab
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp-Signed.apk
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\com.companyname.chatapp-Signed.apk.idsig
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.dll
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\bin\Debug\ChatApp.pdb
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\ChatApp.Android.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\ChatApp.Android.csproj.CopyComplete
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\ChatApp.Android.dll
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\ChatApp.Android.pdb
@@ -2823,6 +2833,7 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\openedeye.png
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\facebooklogo.png
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\googlelogo.png
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\backbutton.png
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\uploadflags.txt
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\resolvedassemblies.hash
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\ChatApp.Android.dll
@@ -3022,16 +3033,16 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\004a1a22-6465-4566-a163-0146f204149c.jar
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\ebd13867-943e-44b1-a17c-02cc3e46a74a.jar
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_AndroidXJetifyJavaLibraryRules.stamp
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\1bf6fa4f-748e-4bbf-bb8e-6198592a8c21.txt
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\1f7428e0-ac9f-4fa7-8957-fec58b5b1865.txt
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\269e0818-f36b-4cc2-a2ca-08e64ec62501.txt
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\42d213c6-b9af-4759-b96c-838517ac8727.cfg
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\70355113-fdc5-404d-8434-3fe3f72a6bb7.txt
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\b63b9db2-b55d-4afe-9f99-d9875d4e9f70.txt
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\ca28f9b5-7429-468d-a2a9-089b4ecc32b5.txt
-C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\e840f066-8559-4ec4-b528-38c600b845be.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\14d7f167-a8d1-466d-9609-9e2c56e37479.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\5a995ce7-e9b0-4b02-a7d6-1929bebd3bc1.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\6846d773-10c1-4ffd-84ca-c19541726bd2.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\b8e43341-3ac6-4eb1-8c67-b1651f1aba12.cfg
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\cd69463b-6c03-4f1b-9dd4-217efbc16daf.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\e74311ca-dc74-4cbe-8c21-7f227787e17a.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\ea8137d5-918f-4862-a30a-82968b544ac4.txt
+C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\ec672a79-52de-4aea-aca4-0cb8a38e3f99.txt
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_AndroidXCecilfy.stamp
@@ -3460,13 +3471,3 @@ C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\Cha
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\Desktop\2021-2022 Projects\MobDev\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\jl\ed45800f-473c-4035-bdde-fb1954b32425.jar
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\2c8b9ace-96c7-4e1b-b045-5125dce97b31.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\4b675ece-13b0-4d0f-9a1f-915ffcc11eca.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\5d1c7b65-8215-42fa-9ae2-aa1750cf4fbb.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\694da934-20d2-4173-b5d5-c9c4c679470f.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\75a13aba-b88f-459d-9cb1-be92a3f1aa94.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\8c00f105-f978-441a-8ed0-28b64a7e43e5.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\d17a76d8-07d1-42e1-9b21-c33ea49299a6.txt
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\androidx\proguard\f31c2e09-2b4c-4b9d-beb0-b5af4e855219.cfg
-C:\Users\Chris\Desktop\MobDevProject\ChatApp-MacaldoDrape\ChatApp\ChatApp\ChatApp.Android\obj\Debug\110\res\drawable\backbutton.png

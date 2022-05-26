@@ -16,10 +16,15 @@
                     <Entry Placeholder="Email"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            Keyboard="Email"  
-                           TextColor="Black"/>
+                           TextColor="Black"
+                           x:Name="Email"
+                            Text="{Binding Email}"/>
+
                     <Entry Placeholder="Username"   
                            PlaceholderColor="Black" HeightRequest="40"   
-                           TextColor="Black"/>
+                           TextColor="Black"
+                           x:Name="Username"
+                           Text="{Binding Username}"/>
                     <!--<Entry Placeholder="Password"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            IsPassword="True"  
@@ -38,8 +43,8 @@
                 </StackLayout>
                 
             </Frame>
-            
-            <Button Text="Sign Up" TextColor="White"  
+
+            <Button Command="{Binding SubmitCommand}" Text="Sign Up" TextColor="White"  
                     FontAttributes="Bold" FontSize="Medium" HorizontalOptions="FillAndExpand" VerticalOptions="Center" 
                     BackgroundColor="Green" />
             <Button Clicked="SignIn_Clicked" Text="Sign In To Your Account" TextColor="White"  
