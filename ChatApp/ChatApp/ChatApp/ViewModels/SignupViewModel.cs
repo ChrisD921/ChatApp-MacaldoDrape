@@ -11,6 +11,7 @@ namespace ChatApp.ViewModels
     public class SignupViewModel : INotifyPropertyChanged
     {
         public Action DisplayInvalidLoginPrompt;
+        public Action DisplayEmailPrompt;
         public event PropertyChangedEventHandler PropertyChanged = delegate { };
         private string email;
         public string Email
@@ -42,20 +43,22 @@ namespace ChatApp.ViewModels
                 PropertyChanged(this, new PropertyChangedEventArgs("Username"));
             }
         }
-        private string confirmpass;
-        public string confirmPassword
+        private string email_forgotpass;
+        public string Email_ForgotPass
         {
-            get { return confirmpass; }
+            get { return email_forgotpass; }
             set
             {
-                confirmpass = value;
-                PropertyChanged(this, new PropertyChangedEventArgs("confirmPassword"));
+                email_forgotpass = value;
+                PropertyChanged(this, new PropertyChangedEventArgs("Email_ForgotPass"));
             }
         }
         public ICommand SubmitCommand { protected set; get; }
+        public ICommand ForgotPassCommand { protected set; get; }
         public SignupViewModel()
         {
             SubmitCommand = new Command(OnSubmit);
+            ForgotPassCommand = new Command(ForgotPass);
         }
         public async void OnSubmit()
         {
@@ -66,6 +69,17 @@ namespace ChatApp.ViewModels
             else
             {
                 await Shell.Current.GoToAsync($"//{nameof(ProfilePage)}");
+            }
+        }
+        public void ForgotPass()
+        {
+            if (string.IsNullOrEmpty(email_forgotpass))
+            {
+                DisplayInvalidLoginPrompt();
+            }
+            else
+            {
+                DisplayEmailPrompt();
             }
         }
     }
