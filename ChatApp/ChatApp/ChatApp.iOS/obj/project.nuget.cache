@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36TVwkcKtbXVghs7Zs8F7ol4rVmaMkBcJ3grrNmykixrzEfFmFWfUfvqpoPLoOUcZ4VTtqqfUYQntKnInNH9MQ==",
+  "dgSpecHash": "m8aqNurYLTGGySI2FhPxiW3XqIAjdBLx49UDooC+9Agv+H9lZHMS0R7DFFlYSS3jWPzPsWv96GJ07Sm0lb1UCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",

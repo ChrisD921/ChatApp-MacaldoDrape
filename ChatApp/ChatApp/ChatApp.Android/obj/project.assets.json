@@ -4462,11 +4462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
       "projectName": "ChatApp.Android",
-      "projectPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+      "projectPath": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -4483,8 +4483,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
-              "projectPath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
+            "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+              "projectPath": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
             }
           }
         }

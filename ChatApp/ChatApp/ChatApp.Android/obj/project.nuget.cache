@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBjEcI1TnEkB6MOg9D0xCQ1XhBWqLX7nTmyXC23gqVejrEGcVGLO6M5IZag0y6lrsxOdZOh68bieLRurQUc21A==",
+  "dgSpecHash": "f1kbYZRvcDtkIjwIljtOYrnJ2r18TLTEM4I5Up5HSL64az3yLkTe2CbIMXUM7pRbly7XrQ7AHtC9HGoQ5fjUeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",

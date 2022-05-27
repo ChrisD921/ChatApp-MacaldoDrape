@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eyB47rd5dRjn1lY6kscKB7EGuEBycz/vA82e+z97Tbzw9U8JGDSsu0lNv9MeCbJp2QKI8r6fV10aL33IfD3ZYw==",
+  "dgSpecHash": "1oLPgQU3dAF80aWYikA1R3f6nNiHjFYUTrVR6ipleoffCJ1blxUWbpYCnuZoBZeThrnfgmKNjfpBtCIvYMK/+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\Desktop\\MobDevProject\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Desktop\\ChatApp-MacaldoDrape\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -27,7 +27,7 @@ namespace ChatApp.ViewModels
             Messages.Insert(0, new Message() { Text = "Hi" });
             Messages.Insert(0, new Message() { Text = "How are you?", User = App.User });
             Messages.Insert(0, new Message() { Text = "What's new?" });
-            Messages.Insert(0, new Message() { Text = "Finally got this shit to work", User = App.User });
+            Messages.Insert(0, new Message() { Text = "Finally got this to work", User = App.User });
             Messages.Insert(0, new Message() { Text = "That's great" });
 
             MessageAppearingCommand = new Command<Message>(OnMessageAppearing);
