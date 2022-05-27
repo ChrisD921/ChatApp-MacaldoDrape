@@ -8,6 +8,7 @@
              mc:Ignorable="d"
              x:Class="ChatApp.Views.LoginPage"
              Shell.TabBarIsVisible="False">
+    
     <ContentPage.Resources>
         <ResourceDictionary>
             <Style x:Key="InvalidStyle" TargetType="Entry">
@@ -16,6 +17,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.Content>
+        
         <StackLayout Orientation="Vertical" Padding="30" Spacing="15">
             <Image Source="Logo.png" HeightRequest="100" WidthRequest="200" ></Image>
             <BoxView HeightRequest="10"/>

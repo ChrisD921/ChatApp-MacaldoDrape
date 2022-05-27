@@ -12,6 +12,7 @@
              /> -->
             
             <Entry x:Name="MyEntry"
+                   Keyboard="Default"
                     Text="{Binding Password}" 
                    Placeholder="Password"
                    PlaceholderColor="Black"

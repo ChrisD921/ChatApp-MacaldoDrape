@@ -23,6 +23,7 @@
                     <Entry Placeholder="Username"   
                            PlaceholderColor="Black" HeightRequest="40"   
                            TextColor="Black"
+                           Keyboard="Default"
                            x:Name="Username"
                            Text="{Binding Username}"/>
                     <!--<Entry Placeholder="Password"   
